@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+	<meta charset="UTF-8">
+		<title> Desarrollo pregunta tres trabajo de big data. </title>
+	</head>
+	<body>
+
+<div>
+<h1>Trabajo Uno Pregunta 3</h1>
+	<div>
+					<div>
+		<div>
+		<a href="https://www.cnnchile.com/economia/enap-nueva-alza-combustibles-bencinas-diesel_20220720/"> Enap anunció nueva alza en combustibles: Bencinas subirán $13 a partir de este jueves</a> 
+		 <p>La Empresa Nacional del Petróleo (Enap) anunció este miércoles una nueva alza en los combustibles que comenzará a regir a partir de este jueves 21 de julio. 
+		 La compañía estatal detalló que las bencinas de 93 y 97 octanos incrementarán su valor en $13 por litro, al igual que el diésel y el gas licuado vehicular (GLP).
+		 A su vez, la compañía subrayó en que “no regula ni fija los precios de combustibles en el mercado chileno. Su rol es únicamente de comercializador mayorista de los distintos derivados de hidrocarburos hacia las empresas distribuidoras”.
+		 Cabe mencionar que la última alza histórica se registró el pasado 6 de julio, cuando las bencinas aumentaron su valor en $20,5 por litro.</p>
+		</div>
+		<div>
+		<h5>Donde comprar algunos alimentos</h5>
+		<table>
+			<tr>
+				<th>Nombre</th>
+			    <th>Precio</th>
+			    <th>¿Estaba en oferta?</th>
+				<th>link precio</th>
+			</tr>
+			<tr>
+				<td>Azúcar</td>
+				<td>$1050</td>
+				<td>No
+				<td><a href="https://www.unimarc.cl/product/azucar-granulada-iansa-1-kg</a></td>
+			</tr>
+			<tr>
+				<td>Arroz</td>
+				<td>$799</td>
+				<td>Si
+				<td><a href="https://www.santaisabel.cl/arroz-largo-fino-1-kg-cuisine-and-co-1845787/p</a></td>
+			</tr>
+			<tr>
+				<td>Sal</td>
+				<td>$370</td>
+				<td>No
+				<td><a href="https://www.unimarc.cl/product/sal-de-mesa-lobos-1-kg</a></td>
+			</tr>
+			<tr>
+				<td>Tallarines</td>
+				<td>$790</td>
+				<td>No
+				<td><a href="https://www.lider.cl/supermercado/product/296907?gclid=EAIaIQobChMIjKCu4LWQ-QIVESSRCh1ulQF_EAQYASABEgLZnvD_BwE</a></td>
+			</tr>
+			<tr>
+				<td>Té</td>
+				<td>$2899</td>
+				<td>Si
+				<td><a href="https://www.santaisabel.cl/te-ceylan-supremo-premium-200-g-100-unid/p</a></td>
+			</tr>
+			<tr>
+				<td>Leche</td>
+				<td>$999</td>
+				<td>No
+				<td><a href="https://www.jumbo.cl/leche-colun-semi-descremada-1-litro/p</a></td>
+			</tr>
+			<tr>
+				<td>Mantequilla</td>
+				<td>$2090</td>
+				<td>Si
+				<td><a href="https://www.jumbo.cl/mantequilla-con-sal-soprole-250-g/p</a></td>
+			</tr>
+			<tr>
+				<td>Lentejas</td>
+				<td>$2390</td>
+				<td>Si
+				<td><a href="https://www.lider.cl/supermercado/product/Banquete-Lentejas-4-mm-Bolsa/314273</a></td>
+			</tr>
+			<tr>
+				<td>Aceite</td>
+				<td>$3850</td>
+				<td>No
+				<td><a href="https://www.lider.cl/supermercado/product/Chef-Aceite-De-Maravilla-Botella-Botella/2321</a></td>
+			</tr>
+			<tr>
+				<td>Huevos</td>
+				<td>$2260</td>
+				<td>Si
+				<td><a href="https://www.unimarc.cl/product/huevo-grande-color-nuestra-cocina-12-un</a></td>
+			</tr>
+		</div>
+					
+					<img src="html-imagen-prueba.jpg" border="1" alt="Bencina con altos precios" width="400px" height="300">
+					</div> 
+	</div>
+</div>
+	</body>	
+</html>

@@ -1,2 +1,2 @@
 # Trabajo-Uno
-Desarrollo trabajo uno Big Data.
+Desarrollo ejercicios del trabajo uno de Big Data.
